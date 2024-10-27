@@ -1,0 +1,389 @@
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    justify-content: center;
+    border: solid;
+    border-radius: 40px;
+    background-color: yellow;
+    margin: auto;
+}
+
+.kelvis{
+    max-width:500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+border: solid;
+border-radius: 90px;
+    }
+.class1{
+    background-color: yellow;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center; 
+    border-radius: 20px;
+}
+ol, ul, li{
+    list-style: none;
+    color: black;
+}
+.div-bio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2rem;
+
+}
+.img1 {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 220px;
+    padding: 15px;
+    border-radius: 10px;
+   
+  }
+.img1 img {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    border: solid;
+    border-width: 6px;
+    width: 200px;
+    
+}
+.soft-skils{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+}
+.img1 p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img2{
+    background-color: yellow;
+    border-radius: 150px;
+    max-width: 14%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+}
+.img2 img{
+    padding: 10px;
+    width: 200px;
+    width: 220px;
+}
+
+.img3{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+.img3 img{
+    display: flex;
+    padding: 10px;
+    width: 120px;
+}
+
+.Hard-skils{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.img4{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+.img4 img{
+    display: flex;
+    padding: 10px;
+    width: 170px;
+}
+.img5{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+.img5 img{
+    display: flex;
+    padding: 10px;
+    width: 180px;
+}
+
+.img6{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+.img6 img{
+    display: flex;
+    padding: 10px;
+    width: 170px;
+}
+
+#img7{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+#img7 img{
+    display: flex;
+    padding: 10px;
+    width: 170px;
+}
+
+
+#img8{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+#img8 img{
+    display: flex;
+    padding: 10px;
+    width: 170px;
+}
+
+#img9{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+#img9 img{
+    display: flex;
+    padding: 10px;
+    width: 170px;
+}
+#img10{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+#img10 img{
+    display: flex;
+    padding: 10px;
+    width: 170px;
+}
+
+#img11{
+    background-color: yellow;
+    border-radius: 250px;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 220px;
+    
+}
+#img11 img{
+    display: flex;
+    padding: 10px;
+    width: 130px;
+}
+
+
+#img12{
+    background-color: yellow;
+    border-radius: 60px;
+    max-width: 240;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    width: 200px;
+    
+}
+#img12 img{
+    display: flex;
+    padding: 10px;
+    width: 190px;
+}
+#container-execucao h2{
+    display: flex;
+    padding: 30px;
+}
+#container-execucao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+.atividades {
+    display: flex;
+    justify-content: center;
+    padding: 9px
+}
+.atividades a {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3rem;
+    justify-content: center;
+}
+.atividades ol{
+    list-style: none;
+}
+.atividades a {
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    border: solid;
+    border-radius: 10px;
+    font-family: cursive;
+    font-size: larger;   
+}
+body{
+    font-family: cursive;
+    background-color: #6666;
+}
+.bio{
+    text-align: justify;
+    padding: 3rem 2rem;
+    background-color: yellow;
+    border-radius: 18px;
+    font-size: larger;
+    border: solid;
+}
+.h2{
+    display: flex;
+justify-content: center;
+align-items: center;
+background-color: yellow;
+border-radius: 10px;
+border: solid;
+border-width: 2px;
+
+}
+.class1 img{
+width: 10rem;
+padding-top: 9px;
+}
+.class1 a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+.class1 p{
+    font-size: larger;
+}
+#execucao{
+    background-color: rgb(0, 0, 0);
+    max-width: 300px;
+    color: aliceblue;
+    border: solid;
+    border-color: yellow;
+    border-radius: 10px;
+    border-width: 6px;
+}
+#mapa{
+    font-size: larger;
+    
+}
+
+
+p.testehover{
+    display: none;
+}
+p.testhover:hover{
+    display: block;
+}
+.a{
+    display:none;
+  }
+  
+  div:hover .a{
+    display: flex;
+    background-color: yellow;
+    width: 300px;
+    padding: 10px;
+    font-size: larger;
+    border-radius: 10px;
+    border: solid;
+   
+  }
+ 
+.a:hover{
+    transform: scale(1.2px);
+    transition-duration: 3s;
+}
+
+.div-bio p{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#logokelvis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#logokelvis img{
+    width: 23rem;
+}
